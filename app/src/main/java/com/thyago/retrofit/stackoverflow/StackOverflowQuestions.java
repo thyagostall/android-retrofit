@@ -1,4 +1,4 @@
-package com.thyago.retrofit;
+package com.thyago.retrofit.stackoverflow;
 
 import java.util.List;
 

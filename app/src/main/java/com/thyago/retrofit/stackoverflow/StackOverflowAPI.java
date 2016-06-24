@@ -1,4 +1,4 @@
-package com.thyago.retrofit;
+package com.thyago.retrofit.stackoverflow;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

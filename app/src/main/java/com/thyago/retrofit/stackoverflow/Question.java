@@ -1,4 +1,4 @@
-package com.thyago.retrofit;
+package com.thyago.retrofit.stackoverflow;
 
 /**
  * Created by thyago on 6/18/16.

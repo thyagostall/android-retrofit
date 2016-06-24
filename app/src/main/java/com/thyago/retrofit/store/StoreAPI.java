@@ -1,6 +1,4 @@
-package com.thyago.retrofit;
-
-import org.json.JSONObject;
+package com.thyago.retrofit.store;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

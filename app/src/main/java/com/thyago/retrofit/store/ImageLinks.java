@@ -1,4 +1,4 @@
-package com.thyago.retrofit;
+package com.thyago.retrofit.store;
 
 /**
  * Created by thyago on 6/22/16.

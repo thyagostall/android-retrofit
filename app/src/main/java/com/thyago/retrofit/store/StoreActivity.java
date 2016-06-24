@@ -1,7 +1,5 @@
-package com.thyago.retrofit;
+package com.thyago.retrofit.store;
 
-import android.os.PersistableBundle;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -14,6 +12,7 @@ import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.squareup.picasso.Picasso;
+import com.thyago.retrofit.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

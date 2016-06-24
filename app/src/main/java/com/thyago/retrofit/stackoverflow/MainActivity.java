@@ -1,4 +1,4 @@
-package com.thyago.retrofit;
+package com.thyago.retrofit.stackoverflow;
 
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.ProgressBar;
+
+import com.thyago.retrofit.R;
 
 import java.util.List;
 
