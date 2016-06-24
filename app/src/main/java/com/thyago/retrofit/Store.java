@@ -10,6 +10,8 @@ public class Store {
     private String phone;
     private String email;
     private String address;
+    private String brand;
+    private ImageLinks image;
 
     public String getName() {
         return name;
@@ -57,5 +59,21 @@ public class Store {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
+
+    public ImageLinks getImage() {
+        return image;
+    }
+
+    public void setImage(ImageLinks image) {
+        this.image = image;
     }
 }
